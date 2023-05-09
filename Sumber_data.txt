@@ -1,0 +1,5 @@
+Dataset HR Analytic :
+https://www.kaggle.com/datasets/jacksonchou/hr-data-for-analytics
+
+Dataset people analytic performance:
+https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
